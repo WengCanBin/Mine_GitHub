@@ -1,0 +1,7 @@
+#Thu Mar 16 20:00:41 CST 2017
+base.0=E\:\\study\\Android\\Mine_GitHub\\LayOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_37c36dd41730ca3cfc212a704046847b33d4f710
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\study\\Android\\Mine_GitHub\\LayOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b8dd4aaa82c8f0cccc58d12e96fbe22e3db19a0\\classes.dex
+base.1=E\:\\study\\Android\\Mine_GitHub\\LayOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5b8dd4aaa82c8f0cccc58d12e96fbe22e3db19a0
+file.0=E\:\\study\\Android\\Mine_GitHub\\LayOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_37c36dd41730ca3cfc212a704046847b33d4f710\\classes.dex

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_0df94685ff8408ac143cb90105db57cb4cdd85c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_3ab93f63ae0730539471bf2c07542e49a35e5b7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_7de63e76d91f9f36fb2eecccdd7b1210ee59d74b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_ce89656706d640ba487f818f5ba7aff79cd7d3a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_fa72ffa357fed154435da67147cba45ae6bd47ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ba51c413cb829114796fbe84499d2ceaf33847b">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b8dd4aaa82c8f0cccc58d12e96fbe22e3db19a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_345b71f71f033bdaa4cbc0264324e5dc9d2285a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_7d2e4026ec2f57de67d2bfdc6236a40062e0ff01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_0f3580bdffb625765051453c4b66d4132bdf533f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_55e3c7061e0192709825ea0dc8e11f213576d225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51030ed76335fd4bf3c4169b861c2f72cebf10b9">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_37c36dd41730ca3cfc212a704046847b33d4f710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\study\Android\Mine_GitHub\LayOut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_d272db5c887428902ecf18c21360bfb53d7afea0\classes.dex" />
+    </item>
+
+</items>
