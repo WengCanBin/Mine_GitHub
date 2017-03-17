@@ -1,79 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    >
-    <TableLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:collapseColumns="1">
-        <TextView
-            android:text="表一"
-            android:gravity="center"
-            />
-        <TableRow>
-            <TextView
-                android:text="列0"
-                />
-            <TextView
-                android:text="列1"
-                />
-        </TableRow>
-    </TableLayout>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main__table"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.administrator.tablelayout.MainActivity_Table">
 
-    <TableLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:stretchColumns="1">
-        <TextView
-            android:text="表二"
-            android:gravity="center" />
-        <TableRow>
-            <TextView
-                android:text="列0不能伸展"
-                />
-            <TextView
-                android:text="列1不能伸展"
-                android:gravity="right"
-                />
-        </TableRow>
-    </TableLayout>
-    
-    <TableLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content">
-        <TextView
-            android:text="表三"
-            android:gravity="center"/>
-        <TableRow>
-            <TextView
-                android:text="这一列很长，将会造成下一列无法显示或显示不全"
-                />
-            <TextView
-                android:text="这一列被挤到了屏幕外"/>
-        </TableRow>
-    </TableLayout>
-
-    <TableLayout
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:shrinkColumns="0"
-        >
-        <TextView
-            android:text="表四"
-            android:gravity="center"
-            />
-        <TableRow>
-            <TextView
-                android:text="由于设置了可收缩，所以这一列不管有多长都不会把其他列挤出去"
-                />
-            <TextView
-                android:text="这一列被显示完全"/>
-        </TableRow>
-    </TableLayout>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
-</TableLayout>
+</RelativeLayout>
